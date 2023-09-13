@@ -1,0 +1,26 @@
+# Data from https://en.wikipedia.org/wiki/List_of_Las_Vegas_Strip_hotels
+treasures:
+  version: 1
+  hotels:
+    - name: flamingo
+      address: 3555 Las Vegas Boulevard South
+    - name: Sahara
+      address: 2535 Las Vegas Boulevard South
+    - name: tropicana
+      address: 3801 Las Vegas Boulevard South
+    - name: The Linq
+      address: 3535 Las Vegas Boulevard South
+    - name: Caesars Palace
+      address: 3570 Las Vegas Boulevard South
+    - name: Circus Circus
+      address: 2880 Las Vegas Boulevard South
+    - name: Harrah's
+      address: 3475 Las Vegas Boulevard South
+    - name: Horseshoe
+      address: 3645 Las Vegas Boulevard South
+    - name: Casino Royale Hotel & Casino
+      address:  3411 Las Vegas Boulevard South
+    - name: The Cromwell
+      address: 3595 Las Vegas Boulevard South
+    - name: The Mirage
+      address: 3400 Las Vegas Boulevard
